@@ -1,0 +1,17 @@
+.leftside{
+height:300px;
+width:300px;
+border:2px solid black;
+margin-left:10px;
+margin-top:10px;
+
+}
+
+.rightside{
+    height:300px;
+    width:300px;
+    border:2px solid black;
+    margin-left:10px;
+    margin-top:10px;
+    
+    }
